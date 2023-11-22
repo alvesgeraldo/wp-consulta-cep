@@ -4,7 +4,7 @@ Plugin Wordpress desenvolvido apenas para estudos referente a criação de plugi
 
 ## Como instalar o plugin
 
-- Faça o download zip deste repositório [clique aqui](https://github.com/alvesgeraldo/wp-consulta-cep.git)
+- Faça o download zip deste repositório [clique aqui](https://github.com/alvesgeraldo/wp-consulta-cep/archive/refs/heads/main.zip)
 - No painel de administração do seu Wordpress vá em Plugins
 - Adicionar novo plugin
 - Enviar plugin
